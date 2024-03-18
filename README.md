@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud Solutions Engineer
 ------------------------
 
-I'm currently building skills in full-stack engineering and in full time work as a Solutions Engineer at VMware.
+I'm currently building skills in full-stack engineering and in full time work as a Solutions Engineer 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [Raashidmaye17@gmail.com](mailto:Raashidmaye17@gmail.com)
