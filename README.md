@@ -8,7 +8,7 @@ I'm currently building skills in full-stack engineering and in full time work as
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [Raashidmaye17@gmail.com](mailto:Raashidmaye17@gmail.com)
-* 🧠  I'm learning React Native, AWS and Django
+* 🧠  I'm learning Pytorch and K8s!
 * 🤝  I'm open to collaborating on React Native, AWS and Django Projects.
 * ⚡  Follow my journey on GitHub
 
